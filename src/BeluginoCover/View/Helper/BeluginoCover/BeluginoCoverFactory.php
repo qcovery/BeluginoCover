@@ -31,7 +31,7 @@ use Interop\Container\ContainerInterface;
 use Laminas\ServiceManager\Factory\FactoryInterface;
 
 /**
- * SearchBox helper factory.
+ * BeluginoCover helper factory.
  *
  * @category VuFind
  * @package  View_Helpers
